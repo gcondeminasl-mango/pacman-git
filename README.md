@@ -3,3 +3,6 @@ Que es el pac-man? bueno, supongo que esa es la pregunta que nos hacemos todos l
 
 ## Informacion del autor
 Soy Guillem Mangominas, el autor de este repositorio, y [esta](https://github.com/gcondeminasl-mango) es mi cuenta de git
+
+## Jugar
+Juega gratis al pac-man --> [AQUÍ](https://pacmangratis.net/) <--
