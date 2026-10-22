@@ -6,3 +6,5 @@ Soy Guillem Mangominas, el autor de este repositorio, y [esta](https://github.co
 
 ## Jugar
 Juega gratis al pac-man --> [AQUÍ](https://pacmangratis.net/) <--
+
+![Imagen del juego pac-man](Screenshot_4.png)
