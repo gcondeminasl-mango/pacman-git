@@ -11,3 +11,4 @@ Juega gratis al pac-man --> [AQUÍ](https://pacmangratis.net/) <--
 
 ## Fantasmes
 - [Blinky (vermell)](blinky.md)
+- [Inky (blau)](inky.md)
